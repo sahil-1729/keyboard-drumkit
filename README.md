@@ -1,7 +1,6 @@
 # keyboard-drumkit
 The Project keyboard-drumkit allows user to play the sounds, by pressing the keyboard keys from 'A' to 'L'.
-This project helps in playing the drumkit, without having one.
-The technologies used in this project are mostly front-end(HTML, Css, Js).
+The technologies used in this project are HTML, Css and Js.
 The reason I made this project, was to get more knowledge on DOM manipulation.
 ### How to use the project
 ◾Press the specified letters on the keyboard to get the sounds                                             
